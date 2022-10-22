@@ -26,11 +26,16 @@ Once you have finished analyzing the data, in the submission template provided, 
 The summary information paragraph clearly communicates your findings based on your analysis and provides visual or numeric values associated with your summary.
 The visualization(s) might be a bar chart, histogram, scatterplot, box-plot, or other visual that you learned to make. Include your insights from the measures of center and spread and at least one numeric summary statistic in the summary description.
 Deliverable: Slide presentation (includes visualization)
+
+
+
 Task 2:
 Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list. Include all companies from the raw data.
 Your drop-down list should pull historical fundamentals data to create the P&L Statement.
 The P&L statement should include the Gross Profit, Operating Profit, or EBIT values for all the years there is historical data available for that company in the dataset.
 Deliverable: Spreadsheet with tab for Dynamic P&L statement
+
+
 Task 3:
 Create a financial model for a company (different from Task 2) of your choice that forecasts out the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case).
 Your assumptions for revenue growth, gross margin, and operating margin should change for each scenario.
